@@ -2,13 +2,13 @@ var bar1,bar2,bar3,bar4,stick,stickimg,stand,standimg,backimg;
 var s1,s2,s3,s4,t1,t2,t3,t4,t5,t6,t7,t8;
 function preload(){
     s1=loadSound("s1.mp3");
-    s2=loadSound("s2.wav");
-    s3=loadSound("s3.wav");
-    s4=loadSound("s4.wav");
-    s5=loadSound("s5.wav");
-    s6=loadSound("s6.wav");
-    s7=loadSound("s7.wav");
-    s8=loadSound("s8.wav");
+    s2=loadSound("s2.mp3");
+    s3=loadSound("s3.mp3");
+    s4=loadSound("s4.mp3");
+    s5=loadSound("s5.mp3");
+    s6=loadSound("s6.mp3");
+    s7=loadSound("s7.mp3");
+    s8=loadSound("s8.mp3");
 
     t1=loadImage("t8.png");
     t2=loadImage("t7.png");
