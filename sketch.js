@@ -1,7 +1,7 @@
 var bar1,bar2,bar3,bar4,stick,stickimg,stand,standimg,backimg;
 var s1,s2,s3,s4,t1,t2,t3,t4,t5,t6,t7,t8;
 function preload(){
-    s1=loadSound("s1.wav");
+    s1=loadSound("s1.mp3");
     s2=loadSound("s2.wav");
     s3=loadSound("s3.wav");
     s4=loadSound("s4.wav");
